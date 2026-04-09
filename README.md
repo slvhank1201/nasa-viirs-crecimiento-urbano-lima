@@ -5,7 +5,7 @@ Un estudio de ciencia de datos geoespaciales que procesa telemetría satelital c
 ## Síntesis del Proyecto
 El crecimiento de las megalópolis latinoamericanas suele medirse con censos desfasados. Este proyecto propone un enfoque empírico y automatizado: utilizar las emisiones de luz nocturna (Radiancia) como proxy directo del desarrollo urbano y la actividad económica. 
 
-Mediante el procesamiento de matrices de datos HDF5 en Python y modelos de regresión, se ha logrado mapear la evolución de Lima (2019-2023) y proyectar su huella lumínica, consolidando los hallazgos en un dashboard interactivo gerencial.
+Mediante el procesamiento de matrices de datos HDF5 en Python y modelos de regresión, se ha logrado mapear la evolución de Lima (2019-2030) y proyectar su huella lumínica, consolidando los hallazgos en un dashboard interactivo gerencial.
 
 ## Hallazgos Clave y Análisis de Tendencias
 

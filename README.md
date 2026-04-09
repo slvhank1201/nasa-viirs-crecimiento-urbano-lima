@@ -1,4 +1,4 @@
-# NASA VIIRS: Análisis y Predicción de Expansión Urbana en Lima Metropolitana 🛰️🌃
+# NASA VIIRS: Análisis y Predicción de Expansión Urbana en Lima Metropolitana 
 
 Un estudio de ciencia de datos geoespaciales que procesa telemetría satelital cruda (misión Suomi NPP / VIIRS de la NASA) para evaluar, cuantificar y predecir la densificación y el crecimiento urbano de la capital peruana hasta el año 2030.
 
